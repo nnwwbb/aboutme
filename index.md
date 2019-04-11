@@ -25,4 +25,6 @@ I wrote this piece of administration software freelance, for a friend who brews 
 
 
 **Animation of a static flow mixer I made**
-<center>[![statictest.jpg](https://img.youtube.com/vi/EivqvCdqS30/0.jpg)](https://www.youtube.com/watch?v=EivqvCdqS30 "Static Flow mixer")</center>
+<center>
+[![statictest.jpg](https://img.youtube.com/vi/EivqvCdqS30/0.jpg)](https://www.youtube.com/watch?v=EivqvCdqS30 "Static Flow mixer")
+</center>
