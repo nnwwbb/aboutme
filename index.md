@@ -22,8 +22,12 @@ I wrote this piece of administration software freelance, for a friend who brews 
 <center><a href="https://raw.githubusercontent.com/highintothesky/aboutme/master/screenshots/kk5.png"><img src="https://raw.githubusercontent.com/highintothesky/aboutme/master/screenshots/kk5.png" height="586" width="854"></a></center>
 
 
+**PirateFlix**
+A torrent streaming GUI, using [PeerFlix](https://github.com/mafintosh/peerflix) and [TkInter](https://wiki.python.org/moin/TkInter). Used to search and stream video.
 
+<center><a href="https://raw.githubusercontent.com/highintothesky/aboutme/master/screenshots/pirateflix.png"><img src="https://raw.githubusercontent.com/highintothesky/aboutme/master/screenshots/pirateflix.png" height="466" width="854"></a></center>
 
-**Animation of a static flow mixer I made (YouTube)**
+**3D Data Visualization (YouTube)**
+Using static flow mixer data
 <center><a href="https://www.youtube.com/watch?v=EivqvCdqS30"><img src="https://img.youtube.com/vi/EivqvCdqS30/0.jpg" ></a></center>
 
