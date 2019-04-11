@@ -2,7 +2,8 @@
 
 My name is Niels, and I program from time to time, mostly in Python.
 
-I use this space to showcase some of the projects I've done, some professionally, and some as a hobby.
+I use this space to showcase some of the projects I've done, some professionally, and some as a hobby. Most of it is hosted in private repositories, but I hope to provide some insight into what I like to do through this page. You can contact me on gmail.
+
 
 
 **KomKom Admin**
@@ -34,3 +35,6 @@ Using static flow mixer data
 
 <center><a href="https://www.youtube.com/watch?v=EivqvCdqS30"><img src="https://img.youtube.com/vi/EivqvCdqS30/0.jpg" ></a></center>
 
+
+
+¯\_(ツ)_/¯
