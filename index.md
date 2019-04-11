@@ -36,5 +36,4 @@ Using static flow mixer data
 <center><a href="https://www.youtube.com/watch?v=EivqvCdqS30"><img src="https://img.youtube.com/vi/EivqvCdqS30/0.jpg" ></a></center>
 
 
-
-¯\\_(ツ)_/¯
+\¯\_(ツ)_/¯
