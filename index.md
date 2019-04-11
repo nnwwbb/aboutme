@@ -9,7 +9,7 @@ I use this space to showcase some of the projects I've done, some professionally
 
 I wrote this piece of administration software freelance, for a friend who brews [Kombutcha](https://en.wikipedia.org/wiki/Kombucha) and needed some help organizing his ingredient purchases, batch production, sales, taxes etc. Some graphs and a pdf export function are also included. All data you see here is dummy data.
 
-![Frontpage](https://raw.githubusercontent.com/highintothesky/aboutme/master/screenshots/kk1.png "KomKom v1 Frontpage" | width=100)
+![Frontpage](https://raw.githubusercontent.com/highintothesky/aboutme/master/screenshots/kk1.png "KomKom v1 Frontpage" "width = 100")
 
 ![Stock](https://raw.githubusercontent.com/highintothesky/aboutme/master/screenshots/kk2.png "KomKom v1 Stock")
 
