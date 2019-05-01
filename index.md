@@ -32,7 +32,7 @@ I've built a small robot, with a Raspberry Pi and an Arduino at the center. It s
 
 A torrent streaming GUI, using [PeerFlix](https://github.com/mafintosh/peerflix) and [TkInter](https://wiki.python.org/moin/TkInter). Used to search and stream video.
 
-<center><a href="https://raw.githubusercontent.com/highintothesky/aboutme/master/screenshots/pirateflix.png"><img src="https://raw.githubusercontent.com/highintothesky/aboutme/master/screenshots/pirateflix.png" height="466" width="854"></a></center>
+<center><a href="https://raw.githubusercontent.com/highintothesky/aboutme/master/screenshots/pirateflix.png"><img src="https://raw.githubusercontent.com/highintothesky/aboutme/master/screenshots/pirateflix.png" height="300" width="300"></a></center>
 
 **3D Data Visualization (YouTube)**
 
