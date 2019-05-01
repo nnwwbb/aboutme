@@ -26,7 +26,7 @@ I wrote this piece of administration software freelance, for a friend who brews 
 
 I've built a small robot, with a Raspberry Pi and an Arduino at the center. It streams video and sonar data back to my control center, which you can see in this screenshot:
 
-<center><a href="https://raw.githubusercontent.com/highintothesky/aboutme/master/screenshots/robogui1.jpg"><img src="https://raw.githubusercontent.com/highintothesky/aboutme/master/screenshots/robogui1.jpg" height="300" width="300"></a></center>
+<center><a href="https://raw.githubusercontent.com/highintothesky/aboutme/master/screenshots/robogui1.jpg"><img src="https://raw.githubusercontent.com/highintothesky/aboutme/master/screenshots/robogui1.jpg" height="350" width="320"></a></center>
 
 **PirateFlix**
 
