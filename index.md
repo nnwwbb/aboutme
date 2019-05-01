@@ -26,13 +26,13 @@ I wrote this piece of administration software freelance, for a friend who brews 
 
 I've built a small robot, with a Raspberry Pi and an Arduino at the center. It streams video and sonar data back to my control center, which you can see in this screenshot:
 
-<center><a href="https://raw.githubusercontent.com/highintothesky/aboutme/master/screenshots/robogui1.jpg"><img src="https://raw.githubusercontent.com/highintothesky/aboutme/master/screenshots/robogui1.jpg" height="586" width="854"></a></center>
+<center><a href="https://raw.githubusercontent.com/highintothesky/aboutme/master/screenshots/robogui1.jpg"><img src="https://raw.githubusercontent.com/highintothesky/aboutme/master/screenshots/robogui1.jpg" height="300" width="300"></a></center>
 
 **PirateFlix**
 
 A torrent streaming GUI, using [PeerFlix](https://github.com/mafintosh/peerflix) and [TkInter](https://wiki.python.org/moin/TkInter). Used to search and stream video.
 
-<center><a href="https://raw.githubusercontent.com/highintothesky/aboutme/master/screenshots/pirateflix.png"><img src="https://raw.githubusercontent.com/highintothesky/aboutme/master/screenshots/pirateflix.png" height="300" width="300"></a></center>
+<center><a href="https://raw.githubusercontent.com/highintothesky/aboutme/master/screenshots/pirateflix.png"><img src="https://raw.githubusercontent.com/highintothesky/aboutme/master/screenshots/pirateflix.png" height="586" width="854"></a></center>
 
 **3D Data Visualization (YouTube)**
 
